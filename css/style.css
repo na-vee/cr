@@ -1,0 +1,28 @@
+body {
+  background-color: skyblue;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style:dotted;
+  border-color: black;
+  border-width: 2px;
+  width: 30px;
+  }
+  h1{
+    color: #821752;
+  }
+  h2{
+    color:#ec0101;
+
+  }
+  h3{
+    color: #81b214;
+  }
+  p{
+    color: #ec0101;
+    font-style: italic;
+  }
+  img{
+    background-color: green;
+  }
